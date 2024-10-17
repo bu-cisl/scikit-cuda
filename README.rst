@@ -1,4 +1,10 @@
 .. -*- rst -*-
+Declaration
+-------------------
+The upstream repo is unmaintained for a long time and is incompatible for up-to-date NumPy and CUDA libraries.
+We made essential changes to keep our `SSNP-IDT <https://github.com/bu-cisl/SSNP-IDT>`_ project working.
+We do not hold any copyright to these changes we made.
+Anyone can legally use or reference our additional work on the original upstream repo without permission.
 
 ..  image:: https://raw.githubusercontent.com/lebedov/scikit-cuda/master/docs/source/_static/logo.png
    :alt: scikit-cuda
